@@ -26,32 +26,32 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Priyanshu, an enthusiastic Software Engineer skilled in web development, machine learning, and scalable software solutions
+            Hi there! I'm Priyanshu, an enthusiastic Software Engineer skilled in web development, Full Stack Development, and scalable software solutions
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            I build responsive web applications, fine-tune ML models, and implement robust backend services.
+            I build responsive web applications, AI-Powered Food-Delivery-Website, and scalable software solutions.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-            I also work with CMS platforms like WordPress and Shopify to streamline content management.
+            I work with modern web technologies like Next.js and understand the end-to-end process of deploying websites using platforms such as Vercel and Render.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={400}>
           <div className="education">
             <h3>Education:</h3>
-            <h4> Master of Computer Applications (MCA)</h4>
-            <p>Vellore Institute of Technology, Chennai | July 2023 - Present</p>
-            <p>8.09 CGPA</p>
+            <h4> Siddharth Public School, Siddharth Nagar, Uttar Pradesh</h4>
+            <p>Intermediate (Class XII) – 67.4% | Apr 2022 – Mar 2023</p>
+            <p>Matriculation (Class X) – 83.2% | Apr 2020 – Mar 2021</p>
           </div>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={550}>
           <div className="experience">
-            <h3>Experience:</h3><h4>Software Developer</h4>
-            <p>KIWIS AND BROWNIES IT SOLUTIONS | October 2024 - Present</p>
-            <p>Bangalore, India</p>
+            <h3>TRAINING:</h3><h4>Fundamentals of Data Structures using C++|LPU</h4>
+            <p>Gained hands-on experience in implementing algorithms for searching, sorting, and recursion | Jun’2025 - Jul’2025</p>
+            <p>Punjab, India</p>
           </div>
         </ScrollAnimation>
 
