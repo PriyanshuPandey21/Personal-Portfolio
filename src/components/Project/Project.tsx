@@ -19,22 +19,22 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/PriyanshuPandey/MultilingualVQA" target="_blank" rel="noreferrer">
+                <a href="https://github.com/PriyanshuPandey21/music-studio" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="GitHub" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Multilingual VQA Vision-Language Model</h3>
+              <h3>EchoVerse Audio Recording, Mixing & Music Production Studio</h3>
               <p>
-                Fine-tuned Qwen2.5-VL for visual question answering across 14 languages with optimized preprocessing.
+                Developed a web application for audio recording, mixing, and music production using React, Node.js, and Web Audio API, enabling users to record, mix, and produce high-quality audio content.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Python</li>
-                <li>Qwen2.5-VL</li>
-                <li>Unsloth</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>Web Audio API</li>
               </ul>
             </footer>
           </div>
@@ -65,23 +65,25 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/PriyanshuPandey/AI-Chatbot-Assistant" target="_blank" rel="noreferrer">
+                <a href="https://github.com/PriyanshuPandey21/Food-Delivery-Website" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
+                <a href="https://food-delivery-website-nine-lyart.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
+              <h3>AI-POWERED-FOOD-DELIVERY-WEBSITE</h3>
               <p>
-                Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
+                AI-Powered Food Delivery Website is a full-stack web application leveraging AI/ML models for personalized recommendations, demand prediction, and delivery optimization, built with a modern frontend framework, RESTful APIs, database integration, and cloud-based deployment infrastructure.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Streamlit</li>
-                <li>PyPDF2</li>
-                <li>LangChain</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>MongoDB</li>
+                <li>Socket.io</li>
+                <li>OpenAI</li>
               </ul>
             </footer>
           </div>
@@ -93,23 +95,24 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
               <div className="project-links">
-                <a href="https://github.com/PriyanshuPandey/MediBook-Medical-Appointment-Scheduler-with-Health-History" target="_blank" rel="noreferrer">
+                <a href="https://github.com/PriyanshuPandey21/Car-Rental" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://medibook.priyanshupandey.com" target="_blank" rel="noreferrer">
+                <a href="https://carrenting-nine.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>MediBook: Medical Appointment Scheduler with Health History</h3>
-              <p>Developed a secure medical appointment management platform with CRUD functionality, utilizing role-based access control, encryption techniques, and a robust MySQL database with normalized schema design and stored procedures for efficient scheduling, data privacy, and reliable retrieval of patient records.</p>
+              <h3>Car Rental Management System</h3>
+              <p>Car Rental Management System is a full-stack, API-driven web application that manages vehicle inventory, bookings, user authentication, and pricing logic using a database-backed architecture and cloud deployment.</p>
             </div>
             <footer>
               <ul className="tech-list">
                 <li>PHP</li>
-                <li>HTML</li>
-                <li>CSS</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>Tailwind CSS</li>
                 <li>MySQL</li>
               </ul>
             </footer>
@@ -124,7 +127,7 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/PriyanshuPandey/Real-Time-Hand-Gesture-Driven-3D-Object-Manipulation" target="_blank" rel="noreferrer">
+                <a href="https://github.com/PriyanshuPandey21/Personal-Portfolio" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
                 <a href="https://youtu.be/NOm-3MynPLE" target="_blank" rel="noreferrer">
@@ -133,14 +136,14 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Real-Time Hand Gesture-Driven 3D Object Manipulation</h3>
-              <p>Developed a real-time hand gesture recognition system for intuitive 3D object manipulation. Leveraged a multimodal approach integrating OpenCV for video processing, MediaPipe for hand detection/landmark extraction, and scikit-learn for machine learning model training. Achieved 95.2% accuracy in hand gesture classification with efficient real-time performance.</p>
+              <h3>Dynamic Developer Showcase</h3>
+              <p>An immersive, animation-rich web application leveraging advanced Tailwind CSS, GPU-accelerated animations, and client-side rendering to deliver smooth, engaging interactions.</p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>OpenCV</li>
-                <li>MediaPipe</li>
-                <li>scikit-learn</li>
+                <li>Tailwind CSS</li>
+                <li>React</li>
+                <li>Node.js</li>
               </ul>
             </footer>
           </div>
