@@ -42,6 +42,8 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft" delay={400}>
           <div className="education">
             <h3>Education:</h3>
+            <h4>Lovely Professional University, Punjab, India | Aug’2023 - Present</h4>
+            <p>B.Tech – Computer Science and Engineering | CGPA: 7.00 </p>
             <h4> Siddharth Public School, Siddharth Nagar, Uttar Pradesh</h4>
             <p>Intermediate (Class XII) – 67.4% | Apr 2022 – Mar 2023</p>
             <p>Matriculation (Class X) – 83.2% | Apr 2020 – Mar 2021</p>
