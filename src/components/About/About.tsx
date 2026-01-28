@@ -1,6 +1,4 @@
 import { Container } from "./styles";
-
-import PriyanshuPandey from "../../assets/PriyanshuPandey.webp";
 import python from "../../assets/python.svg"
 import java from "../../assets/java.svg"
 import wordpress from "../../assets/wordpress.svg";
