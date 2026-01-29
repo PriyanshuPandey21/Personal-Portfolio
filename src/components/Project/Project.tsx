@@ -130,7 +130,7 @@ export function Project() {
                 <a href="https://github.com/PriyanshuPandey21/Personal-Portfolio" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://youtu.be/NOm-3MynPLE" target="_blank" rel="noreferrer">
+                <a href="https://personal-portfolio-lyart-beta-11.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
