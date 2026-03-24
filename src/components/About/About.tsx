@@ -37,16 +37,6 @@ export function About() {
             I work with modern web technologies like Next.js and understand the end-to-end process of deploying websites using platforms such as Vercel and Render.
           </p>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={400}>
-          <div className="education">
-            <h3>Education:</h3>
-            <h4>Lovely Professional University, Punjab, India | Aug’2023 - Present</h4>
-            <p>B.Tech – Computer Science and Engineering | CGPA: 7.00 </p>
-            <h4> Siddharth Public School, Siddharth Nagar, Uttar Pradesh</h4>
-            <p>Intermediate (Class XII) – 67.4% | Apr 2022 – Mar 2023</p>
-            <p>Matriculation (Class X) – 83.2% | Apr 2020 – Mar 2021</p>
-          </div>
-        </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={550}>
           <div className="experience">
             <h3>TRAINING:</h3><h4>Fundamentals of Data Structures using C++|LPU</h4>
@@ -55,7 +45,7 @@ export function About() {
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000} style={{ marginTop: "3rem" }}>
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>
         <div className="hard-skills">

@@ -2,6 +2,9 @@ import Particles from "react-tsparticles"
 import { Container } from "./styles";
 import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
+import { Skills } from "../Skills/Skills";
+import { Certificates } from "../Certificates/Certificates";
+import { Education } from "../Education/Education";
 import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
 import python from "../../assets/python.svg"
@@ -264,7 +267,10 @@ export function Main() {
       />
       <Hero></Hero>
       <About></About>
+      <Skills></Skills>
       <Project></Project>
+      <Certificates></Certificates>
+      <Education></Education>
       <Contact></Contact>
     </Container>
   );
