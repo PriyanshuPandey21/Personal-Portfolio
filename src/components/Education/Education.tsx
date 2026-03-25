@@ -15,7 +15,7 @@ export function Education() {
               <h3>Lovely Professional University, Punjab, India</h3>
               <span className="date">Aug’2023 - Present</span>
             </div>
-            <p>B.Tech – Computer Science and Engineering | CGPA: 7.00</p>
+            <p>B.Tech – Computer Science and Engineering | CGPA: 6.92</p>
           </div>
         </ScrollAnimation>
 
